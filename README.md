@@ -1,5 +1,5 @@
 # Challenge6_Repo
-Building a tool to help credit union members evaluate their financial health
+The application of technology to real-estate markets to offer an instant, one-click service for people to buy properties and then rent them
 
 ## User Story
 Role: PropTech Analyst
