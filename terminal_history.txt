@@ -1,0 +1,50 @@
+   98  cd desktop
+   99  cd Fintech\ workspace/
+  100  cd _Mar
+  101  cd 02_Listing_Assets/
+  102  cd Unsolved/
+  103  python listing_assets.py
+  104  python listing_assets.py
+  105  python actors_python.py
+  106  python The_401k_shuffle.py
+  107  ls
+  108  pwd
+  109  cd fintech_workspace
+  110  ~
+  111  coda deactivate
+  112  conda deactivate
+  113  ~
+  114  ~
+  115  pwd
+  116  cd one
+  117  exit
+  118  cd OneDrive
+  119  cd Desktop
+  120  cd Fintech
+  121  cd Challenge6_Repo/
+  122  conda activate pyviz
+  123  code .
+  124  git add -A
+  125  git commit -m "commit further updates  sections 4 &5"
+  126  git push origin main
+  127  git status
+  128  git add -A
+  129  git commit -m "commit updates"
+  130  git push origin main
+  131  git add -A
+  132  git commit -m "Commit update"
+  133  git push origin main
+  134  git add -A
+  135  git commit -m "Update the plot in  section 1 step 3"
+  136  git push origin main
+  137  git add -A
+  138  git commit -m "updating the answers to the questions in each section"
+  139  git push origin main
+  140  git add -A
+  141  git commit -m "updating of answers"
+  142  git push origin main
+  143  git add -A
+  144  git commit -m "Updates of last steps Questions and maps"
+  145  git push origin main
+  146  git status
+  147  history 50 >terminal_history.txt
